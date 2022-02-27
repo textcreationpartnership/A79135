@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two declarations the first from the Kings most Excellent majesty; to all his loyall subjects, wherein he declares his gracious will and pleasure concerning his two Houses of Parliament assembled at Westminster. Signed, Charles Rex. The second, concerning His Majesties coming to Oatlands, and the proceedings of His Excellency Sir Thomas Fairfax, concerning his speedy comming to Londo n [sic]; as also the time.</title>
+            <author>Rishton, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79135</idno>
+            <idno type="STC">Wing C2850</idno>
+            <idno type="STC">Thomason E402_15</idno>
+            <idno type="STC">ESTC R201824</idno>
+            <idno type="EEBO-CITATION">99862315</idno>
+            <idno type="PROQUEST">99862315</idno>
+            <idno type="VID">114469</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114469)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E402[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two declarations the first from the Kings most Excellent majesty; to all his loyall subjects, wherein he declares his gracious will and pleasure concerning his two Houses of Parliament assembled at Westminster. Signed, Charles Rex. The second, concerning His Majesties coming to Oatlands, and the proceedings of His Excellency Sir Thomas Fairfax, concerning his speedy comming to Londo n [sic]; as also the time.</title>
+                  <author>Rishton, Robert.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Rishton,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>anno, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A letter, dated and signed at end: Oatlands 15 of August, 1647. R. Rishton.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "Aug: 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114469:1" rendition="simple:additions"/>
+            <p>TWO DECLARATIONS THE FIRST, From the Kings moſt Excellent Majeſty; to all His loyall Subjects, Wherein He declares His gracious will and pleaſure concerning His two Houſes of Parliament aſſembled at <hi>Westminſter.</hi>
+            </p>
+            <p>Signed, CHARLES REX.</p>
+            <p>THE SECOND, Concerning His Majeſties coming to <hi>Oatlands,</hi> and the proceedings of His Excellency Sir <hi>Thomas Fairfax,</hi> concerning his ſpeedy comming to <hi>London;</hi> as alſo the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e.</p>
+            <figure>
+               <head>C R</head>
+               <figDesc>depiction of King Charles II</figDesc>
+            </figure>
+            <p>
+               <add>Aug: 17</add> 
+               <hi>LONDON</hi> Printed for <hi>R. Riſhton, Anne, 1647.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114469:2"/>
+            <pb facs="tcp:114469:2"/>
+            <head>
+               <hi>THE KINGS MAJESTIES LAST</hi> Declaration and Proteſtation to all His loving Subjects, concerning his two Houſes of Parliament.</head>
+            <head type="sub">Sent in a Letter from his Maieſties Court at Oatlands, for the ſpeedy of it in and about the city of London.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>Upon Fryday laſt, the Kings Majeſty re<g ref="char:EOLhyphen"/>moved from <hi>Steek-Abby,</hi> to <hi>Oatlands,</hi> to<g ref="char:EOLhyphen"/>gether <hi>with all his Majeſties Sumpture hor<g ref="char:EOLhyphen"/>ſes, and other proviſions belonging to the Court</hi>
+               <pb facs="tcp:114469:3"/>
+Court, we do expect our next motion for <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> where his Majeſty hath a great deſire to come, and to recide with his two Houſes of Parliament; as for the late rumors divulged that his Majeſty intendeth a new warre a<g ref="char:EOLhyphen"/>gainſt the henourable Houſes of Parliament, much might be ſaid concerning this, but I will refer you to his Maieſties own Decla<g ref="char:EOLhyphen"/>claration, ſigned <hi>charles Rex,</hi> which I ſhall here recite verbatim.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="royal_declaration">
+                        <opener>
+                           <signed>CHARLES REX.</signed>
+                        </opener>
+                        <p>THere having been many Rumors ſpread, and informations given, which may have indu<g ref="char:EOLhyphen"/>ced many to believe, that We intend to make warre againſt Our Parliament; Wee profeſſe before God, and declare to all the world, that we alwayes have, and do abborre all ſuch Deſignes, and deſire all our Nobility and Commoners who are here up<g ref="char:EOLhyphen"/>on the place to declare whether they have not been witneſſes of Our frequent and earneſt Declarati<g ref="char:EOLhyphen"/>ons and Profeſſious to this purpoſe; Whithe<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> they ſee any colour of preparations or councels that might beget a beliefe of any ſuch deſigne. And whither they be not fully perſwaded, that we have no ſuch intention, But that all Our endeavours (ac<g ref="char:EOLhyphen"/>cording
+<pb facs="tcp:114469:3"/>
+to Our many Profeſſions) <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> to the <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> and conſtant ſettlement of the true Proſteant Reli<g ref="char:EOLhyphen"/>gion, the juſt Priviledges of Parliaments, the Li<g ref="char:EOLhyphen"/>berty of the Subject, the Law, Peace, and Proſperi<g ref="char:EOLhyphen"/>ty of this Kingdome.</p>
+                        <argument>
+                           <p>Given at His Majeſties Royall Court, and ſigned, <hi>Charles R.</hi>
+                           </p>
+                        </argument>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>His Majeſty is in perfect health of body, and much ſatisfied in minde, and farre more pleaſanter ſince his comming to <hi>Oatlands</hi> then formerly.</p>
+            <p>He hopes to ſee White-Hall ere long, there to conſult with his two houſes of parliament for the ſetling of a firme peace within this Kingdome.</p>
+            <p>His Maieſty approves much of the Generals preſent proceedings, in that he in ſeth his ut<g ref="char:EOLhyphen"/>moſt endeavours for the ſpeedy ſetling of his Dread Soveraign in his juſt Rights and Au<g ref="char:EOLhyphen"/>thority; as alſo for the confirming of a la<g ref="char:EOLhyphen"/>ſting peace within this Kingdome. For other particulars, I refer you to this enſuing De<g ref="char:EOLhyphen"/>claration.</p>
+         </div>
+         <div type="royal_declaration">
+            <pb facs="tcp:114469:4"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <figDesc>decorative header with English lion and Scottish unicorn flanking a royal diadem</figDesc>
+               </figure>
+            </head>
+            <head>Another Declaration or Meſſage concerning the Kings Maieſties ſpeedy comming to his Royall Palace at White-hall.</head>
+            <p>WHereas the voyce of the people hath lately been heard, and many rumours noyled abroad, concernig his Majeſties not comming to <hi>London</hi> with his Excellency Sir <hi>Thomas Fairfax,</hi> which for many weighty reaſons could not ſo well be accompliſhed as now in the future, by reaſon of the then pre<g ref="char:EOLhyphen"/>ſent diſtractions, and the great differences un<g ref="char:EOLhyphen"/>compoſed; which for the preſent compoſure of all, His Excellency Sir <hi>Thomas Farfax</hi> hath left no wayes unaſſayed for the ſpeedy ſetling both of Prince and people, as is plainly evi<g ref="char:EOLhyphen"/>dent by all his endeavours and undertaking, eſpecially ſince his advance to or neere the City of <hi>London;</hi> for ſince his Excellencies ad<g ref="char:EOLhyphen"/>vance to <hi>Kingſton,</hi> he hath called another coun<g ref="char:EOLhyphen"/>cell
+<pb facs="tcp:114469:4"/>
+of Warre, where was ſeverall things pro<g ref="char:EOLhyphen"/>pounded, in order to the ſpeedy ſettlement of the peace of the Kingdome, and in parti<g ref="char:EOLhyphen"/>cular, concerning the bringing of the Kings Majeſty to <hi>London,</hi> for the ſpeedy ſetling of his Maieſty in his Royall Throne, and con<g ref="char:EOLhyphen"/>firming his juſt Rights and Authority upon Him and his Poſterity; of which, the King<g ref="char:EOLhyphen"/>dome will (no doubt) receive a good account ſuddenly; for it is further declared, that all things goes on in ſuch a gallant poſture, con<g ref="char:EOLhyphen"/>ducing much to the honour and ſafety of his Majeſty, and the peace and welſate of all His loyall Subjects, that it is verily beleeved, that 8 dayes time will bring gallant things to paſſe, in which time, we hope to ſee his Ma<g ref="char:EOLhyphen"/>jeſty tryumphantly ſeated in his Royall pa<g ref="char:EOLhyphen"/>lace at Weſtminſter.</p>
+            <p>The face of things now look gallantly to<g ref="char:EOLhyphen"/>wards a ſetled peace; and it is hoped all old grudges will be forgotten, and reparations made to Kings ſervants, according to the late motion of his Excellency Sir <hi>Thomas Fairfax,</hi> expreſſed in his own Letter to both Houſes of Parliament, wherein bet deſires that the
+<pb facs="tcp:114469:5"/>
+Kings ſervants who have a long time been<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſtitute and outed of their places.</p>
+            <p>The Kings Majeſty is very cheerfull and merry, and it is ſuppoſed he will be conduct<g ref="char:EOLhyphen"/>ed either to White-hall or S. James very ſpee<g ref="char:EOLhyphen"/>dily, the happy accompliſhment of which, is the carneſt prayers, of</p>
+            <closer>
+               <signed>Your devoted ſervant, <hi>R. Riſhton.</hi>
+               </signed>
+               <dateline>Oatlands <date>15 of Auguſt. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
